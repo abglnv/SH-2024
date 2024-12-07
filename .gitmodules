@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Bebdyshev/SH-2024-FR.git
+[submodule "orchestrator"]
+	path = orchestrator
+	url = https://github.com/rendizi/SH-2024-ORCH.git
+[submodule "agent"]
+	path = agent
+	url = https://github.com/rendizi/SH-2024-bot.git
+[submodule "local"]
+	path = local
+	url = https://github.com/rendizi/SH-2024-LOCAL.git
