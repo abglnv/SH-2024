@@ -10,3 +10,6 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/Bebdyshev/SH-2024-FR
+[submodule "botscannertg"]
+	path = botscannertg
+	url = https://github.com/Kirirto-kun/sh_tg_jafar
